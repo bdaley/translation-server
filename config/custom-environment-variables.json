@@ -1,3 +1,4 @@
 {
-	"translatorsDirectory": "TRANSLATORS_DIR"
+	"translatorsDirectory": "TRANSLATORS_DIR",
+	"allowedOrigins": "ALLOWED_ORIGINS"
 }
